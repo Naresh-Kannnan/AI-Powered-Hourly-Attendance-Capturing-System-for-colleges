@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul 30 12:30:16 2021
-
-@author: DARSHAN
-"""
 
 import boto3 
 import csv
